@@ -2,4 +2,4 @@
 
 Проектная работа, в которой можно посмотреть виды из окон различных городов с видеокамер.
 
-[Ссылка на проект](https://github.com/yandex-praktikum/posmotri_v_okno)
+[Ссылка на проект](https://github.com/mariannarudenko/posmotri_v_okno)
