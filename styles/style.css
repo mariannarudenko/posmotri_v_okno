@@ -282,13 +282,19 @@ ol {
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
+  max-width: 194px;
 }
+
 .content__video-card-description {
   font-weight: inherit;
   font-size: inherit;
   line-height: 90%;
   color: #fff;
-  max-width: 200px;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .content__video-card-thumbnail {
